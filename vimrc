@@ -12,3 +12,17 @@ endif
 
 set cursorline
 set cursorcolumn
+
+set laststatus=1
+set wildmenu
+
+set relativenumber
+set showmatch
+set number
+
+set ruler
+
+let g:airline_theme='base16'
+
+set nobackup
+set noswapfile
