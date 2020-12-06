@@ -1,3 +1,6 @@
 [submodule "pack/plugins/start/nerd-tree"]
 	path = pack/plugins/start/nerd-tree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/plugins/start/nerdtree-git-plugin"]
+	path = pack/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
