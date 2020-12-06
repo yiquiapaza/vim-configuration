@@ -10,3 +10,6 @@
 [submodule "pack/syntax/start/vim-polyglot"]
 	path = pack/syntax/start/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "pack/colors/start/gruvbox"]
+	path = pack/colors/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
